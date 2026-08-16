@@ -64,16 +64,11 @@
 
 ---
 
-### GitHub Contribution Snake
-
-*Note: You can generate your own animated contribution snake using [Platane/snk](https://github.com/Platane/snk) GitHub action! Here is a placeholder animation:*
+### 🤖 Contribution Factory
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Robot building green github boxes" width="200" />
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/images/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <div align="center">
