@@ -2,13 +2,7 @@
      ⚡ AKSHAT SHARMA — GitHub Profile
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │                    ⚡ ANIMATED CYBER HEADER                            │
-     └─────────────────────────────────────────────────────────────────────────┘ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:00F5FF,40:7B2FBE,70:FF2D95,100:0d1117&height=220&section=header&text=AKSHAT%20SHARMA&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source&descSize=16&descColor=00F5FF&descAlignY=55" width="100%" alt="Header" />
-</div>
 
 <!-- ┌─────────────────────────────────────────────────────────────────────────┐
      │                    🎮 PIXEL ART BANNER                                 │
@@ -156,25 +150,7 @@ const akshatsharma = {
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │                    🐍 SNAKE CONTRIBUTION ANIMATION                     │
-     └─────────────────────────────────────────────────────────────────────────┘ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshatsharma-x/akshatsharma-x/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshatsharma-x/akshatsharma-x/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/akshatsharma-x/akshatsharma-x/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
 
 <!-- ┌─────────────────────────────────────────────────────────────────────────┐
      │                    🏗️ 3D CONTRIBUTION GRAPH                            │
