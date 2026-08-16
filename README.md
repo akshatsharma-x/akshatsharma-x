@@ -9,7 +9,7 @@
      └─────────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" alt="Pixel Art Coding" width="100%" />
+  <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" alt="MidnightOwl" width="100%" />
 </div>
 
 <br/>
