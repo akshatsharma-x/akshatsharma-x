@@ -2,137 +2,66 @@
      ⚡ AKSHAT SHARMA — GitHub Profile
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-
-
-<!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │                    🎮 PIXEL ART BANNER                                 │
-     └─────────────────────────────────────────────────────────────────────────┘ -->
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" alt="MidnightOwl" width="100%" />
 </div>
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │                    ⌨️ TYPING SVG ANIMATION                             │
-     └─────────────────────────────────────────────────────────────────────────┘ -->
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Building+scalable+distributed+systems...;%3E+Architecting+cloud-native+solutions...;%3E+Open+source+contributor+%26+collaborator;%3E+Turning+caffeine+into+production+code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E+Building+scalable+distributed+systems...;%3E+Architecting+cloud-native+solutions...;%3E+Open+source+contributor+%26+collaborator;%3E+Turning+caffeine+into+production+code+%E2%98%95" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
+Hi, I'm **Akshat Sharma**, a Software Engineer from India focused on backend architectures, cloud infrastructure, and low-latency system designs.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshatsharma-x.akshatsharma-x&left_color=0d1117&right_color=00F5FF&left_text=Profile%20Views" alt="Profile Views" />
-  &nbsp;&nbsp;
+<div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshatsharma-x.akshatsharma-x&left_color=0d1117&right_color=00F5FF&left_text=views" alt="Profile Views" />
+  &nbsp;
   <a href="https://github.com/akshatsharma-x?tab=followers">
-    <img src="https://img.shields.io/github/followers/akshatsharma-x?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/akshatsharma-x?label=followers&style=flat&color=00F5FF&labelColor=0d1117" alt="GitHub Followers" />
   </a>
 </div>
-
-<br/>
-
-<!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │                    👤 ABOUT ME — TERMINAL STYLE                        │
-     └─────────────────────────────────────────────────────────────────────────┘ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 ```js
-// ═══════════════════════════════════════════════════
-//  akshat_sharma.js — who am I?
-// ═══════════════════════════════════════════════════
+// akshat_sharma.js — who am I?
 
 const akshatsharma = {
     pronouns:    "he" | "him",
     title:       "Software Engineer",
-    location:    "India 🇮🇳",
-    
-    currentWork: "Building exciting production-grade systems",
-    learning:    ["System Design", "Advanced Cloud Architecture", "Distributed Systems"],
-    
+    location:    "India",
+    currentWork: "Building production-grade systems",
+    learning:    ["System Design", "Cloud Architecture", "Distributed Systems"],
     askMeAbout:  ["Go", "Rust", "Microservices", "DevOps", "Cloud Infrastructure"],
-    
-    collaborate: "Open source & innovative tech projects",
-    
-    funFact:     "I debug in production and call it 'live testing' 🔥",
-    
-    dailyRoutine() {
-        return ["☕ Coffee", "💻 Code", "🐛 Debug", "🔁 Repeat"];
-    }
+    funFact:     "I debug in production and call it 'live testing'"
 };
 ```
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │                    🛠️ TECH STACK — ORGANIZED GRID                      │
-     └─────────────────────────────────────────────────────────────────────────┘ -->
+## ⚙️ Tech Arsenal
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+**Languages & Runtimes:**&emsp;
+<img src="https://skillicons.dev/icons?i=go,rust,ruby,cs,bash&theme=dark" height="30" alt="Languages" />
+
+**Backend & Infra:**&emsp;
+<img src="https://skillicons.dev/icons?i=dotnet,firebase,postgres,redis&theme=dark" height="30" alt="Backend" />
+
+**DevOps & Cloud:**&emsp;
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform&theme=dark" height="30" alt="DevOps" />
+
+**Tools & Platforms:**&emsp;
+<img src="https://skillicons.dev/icons?i=linux,git,githubactions,neovim,postman&theme=dark" height="30" alt="Tools" />
 
 <br/>
 
-<h2 align="center">⚙️ Tech Arsenal</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
-
-#### `> Languages & Runtimes_`
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-#### `> Backend & Infrastructure_`
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
-
-#### `> DevOps & Cloud_`
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-
-#### `> Tools & Platforms_`
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │                    📊 GITHUB ANALYTICS DASHBOARD                       │
-     └─────────────────────────────────────────────────────────────────────────┘ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akshatsharma-x&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=00F5FF&ring=FF2D95&currStreakLabel=00F5FF" alt="Streak Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=akshatsharma-x&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=00F5FF&ring=FF2D95&currStreakLabel=00F5FF" alt="Streak Stats" width="100%" />
 </div>
 
 <br/>
@@ -144,23 +73,13 @@ const akshatsharma = {
 
 <br/>
 
+## 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatsharma-x&bg_color=1a1b27&color=00F5FF&line=7B2FBE&point=FF2D95&area_color=00F5FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatsharma-x&bg_color=1a1b27&color=00F5FF&line=7B2FBE&point=FF2D95&area_color=00F5FF&area=true&hide_border=true&custom_title=Commit%20Frequency%20Heatmap" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
-
-
-
-<!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │                    🏗️ 3D CONTRIBUTION GRAPH                            │
-     └─────────────────────────────────────────────────────────────────────────┘ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<h2 align="center">🏗️ 3D Contribution Map</h2>
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
@@ -168,23 +87,25 @@ const akshatsharma = {
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │                    🌐 CONNECT WITH ME                                  │
-     └─────────────────────────────────────────────────────────────────────────┘ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakshatsharma-x&query=%24.public_repos&label=repositories&color=00F5FF&labelColor=0d1117&style=flat" alt="Repos" />
+  &nbsp;·&nbsp;
+  <img src="https://img.shields.io/github/stars/akshatsharma-x?label=starred&color=00F5FF&labelColor=0d1117&style=flat" alt="Stars" />
+</div>
 
 <br/>
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://github.com/akshatsharma-x">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -192,24 +113,14 @@ const akshatsharma = {
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │                    🔥 RANDOM DEV QUOTE                                 │
-     └─────────────────────────────────────────────────────────────────────────┘ -->
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <br/>
 
-<!-- ┌─────────────────────────────────────────────────────────────────────────┐
-     │                    🌊 ANIMATED FOOTER                                  │
-     └─────────────────────────────────────────────────────────────────────────┘ -->
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:00F5FF,40:7B2FBE,70:FF2D95,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
+  <sub>PROFILE GENERATED & MAINTAINED BY <a href="https://github.com/akshatsharma-x">@AKSHATSHARMA-X</a></sub>
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     Built with ❤️ and mass amounts of ☕
-     ═══════════════════════════════════════════════════════════════════════════ -->
