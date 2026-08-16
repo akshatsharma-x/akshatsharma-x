@@ -67,8 +67,8 @@ const akshatsharma = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatsharma-x&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00F5FF&icon_color=FF2D95&text_color=c9d1d9&ring_color=7B2FBE&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsharma-x&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00F5FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=akshatsharma-x&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00F5FF&icon_color=FF2D95&text_color=c9d1d9&ring_color=7B2FBE&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akshatsharma-x&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00F5FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%" />
 </div>
 
 <br/>
