@@ -14,7 +14,7 @@
   </a>
 </div>
 
-Hi, I'm **Akshat Sharma**, a Software Engineer from India focused on backend architectures, cloud infrastructure, and low-latency system designs.
+Hi, I'm **Akshat Sharma**, an AI & ML Engineer specializing in Generative AI, building LLM-powered applications, and scalable backend architectures.
 
 <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=akshatsharma-x.akshatsharma-x&left_color=0d1117&right_color=00F5FF&left_text=views" alt="Profile Views" />
