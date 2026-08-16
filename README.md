@@ -68,7 +68,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Robot building green github boxes" width="200" />
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/images/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <div align="center">
