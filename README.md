@@ -82,7 +82,7 @@ const akshatsharma = {
 <br/>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <br/>
