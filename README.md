@@ -33,9 +33,9 @@ const akshatsharma = {
     pronouns:    "he" | "him",
     title:       "Software Engineer",
     location:    "India",
-    currentWork: "Building production-grade systems",
-    learning:    ["System Design", "Cloud Architecture", "Distributed Systems"],
-    askMeAbout:  ["Go", "Rust", "Microservices", "DevOps", "Cloud Infrastructure"],
+    currentWork: "Building GenAI applications and scalable systems",
+    learning:    ["Generative AI (RAG, LLMs)", "System Design", "Cloud Architectures"],
+    askMeAbout:  ["Python", "Java", "Next.js", "Django", "FastAPI", "GenAI"],
     funFact:     "I debug in production and call it 'live testing'"
 };
 ```
@@ -45,16 +45,16 @@ const akshatsharma = {
 ## ⚙️ Tech Arsenal
 
 **Languages & Runtimes:**&emsp;
-<img src="https://skillicons.dev/icons?i=go,rust,ruby,cs,bash&theme=dark" height="30" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js,kotlin&theme=dark" height="30" alt="Languages" />
 
-**Backend & Infra:**&emsp;
-<img src="https://skillicons.dev/icons?i=dotnet,firebase,postgres,redis&theme=dark" height="30" alt="Backend" />
+**Frameworks & Backend:**&emsp;
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,django,fastapi,postgres&theme=dark" height="30" alt="Backend" />
 
 **DevOps & Cloud:**&emsp;
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform&theme=dark" height="30" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,windows&theme=dark" height="30" alt="DevOps" />
 
 **Tools & Platforms:**&emsp;
-<img src="https://skillicons.dev/icons?i=linux,git,githubactions,neovim,postman&theme=dark" height="30" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,postman&theme=dark" height="30" alt="Tools" />
 
 <br/>
 
